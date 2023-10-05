@@ -1,11 +1,10 @@
-```markdown
 # Terraform Azure Resource Group Module
 
 This Terraform module creates an Azure Resource Group with customizable properties and tags.
 
 ## Usage
 
-```hcl
+```
 module "rg" {
   source                  = "github.com/iquzart/terraform-azurerm-rg"
   resource_group_location = "uaenorth"
