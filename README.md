@@ -35,4 +35,3 @@ module "rg" {
 ## License
 
 This module is open-source and available under the [MIT License](LICENSE).
-```
