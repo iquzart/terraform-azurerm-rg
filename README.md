@@ -4,7 +4,7 @@ This Terraform module creates an Azure Resource Group with customizable properti
 
 ## Usage
 
-```
+```hcl
 module "rg" {
   source                  = "github.com/iquzart/terraform-azurerm-rg"
   resource_group_location = "uaenorth"
